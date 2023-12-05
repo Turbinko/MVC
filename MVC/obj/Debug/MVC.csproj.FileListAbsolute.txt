@@ -1,0 +1,8 @@
+C:\Turbinko\Revision\MVC\MVC\bin\Debug\MVC.exe.config
+C:\Turbinko\Revision\MVC\MVC\bin\Debug\MVC.exe
+C:\Turbinko\Revision\MVC\MVC\bin\Debug\MVC.pdb
+C:\Turbinko\Revision\MVC\MVC\obj\Debug\MVC.csproj.AssemblyReference.cache
+C:\Turbinko\Revision\MVC\MVC\obj\Debug\MVC.csproj.SuggestedBindingRedirects.cache
+C:\Turbinko\Revision\MVC\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+C:\Turbinko\Revision\MVC\MVC\obj\Debug\MVC.exe
+C:\Turbinko\Revision\MVC\MVC\obj\Debug\MVC.pdb
